@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eldontesA", "..\eldontesA\eldontesA.csproj", "{A69FAE0B-EA6B-478E-90D1-C80D93E0ADB5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "buborekos", "..\buborekos\buborekos.csproj", "{B9E6EB2F-8A2B-4906-803D-A6D7A5DB064E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "maximum_kivalasztasos", "..\maximum_kivalasztasos\maximum_kivalasztasos.csproj", "{FEFEF188-678E-4D09-BD60-ECC1199B8B0F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Megszamolas", "..\Megszamolas\Megszamolas.csproj", "{9B2C3BF0-67E1-4266-9097-6B1CD96813EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "minimum_kivalasztasos", "..\minimum_kivalasztasos\minimum_kivalasztasos.csproj", "{6AB84D97-1C52-4F12-90EE-A8FFBF7796E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "osszegzes", "..\osszegzes\osszegzes.csproj", "{70F1A11D-9457-4725-8D00-5A7305493A61}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A69FAE0B-EA6B-478E-90D1-C80D93E0ADB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A69FAE0B-EA6B-478E-90D1-C80D93E0ADB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A69FAE0B-EA6B-478E-90D1-C80D93E0ADB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A69FAE0B-EA6B-478E-90D1-C80D93E0ADB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9E6EB2F-8A2B-4906-803D-A6D7A5DB064E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9E6EB2F-8A2B-4906-803D-A6D7A5DB064E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9E6EB2F-8A2B-4906-803D-A6D7A5DB064E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9E6EB2F-8A2B-4906-803D-A6D7A5DB064E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEFEF188-678E-4D09-BD60-ECC1199B8B0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEFEF188-678E-4D09-BD60-ECC1199B8B0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEFEF188-678E-4D09-BD60-ECC1199B8B0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEFEF188-678E-4D09-BD60-ECC1199B8B0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B2C3BF0-67E1-4266-9097-6B1CD96813EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B2C3BF0-67E1-4266-9097-6B1CD96813EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B2C3BF0-67E1-4266-9097-6B1CD96813EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B2C3BF0-67E1-4266-9097-6B1CD96813EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6AB84D97-1C52-4F12-90EE-A8FFBF7796E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AB84D97-1C52-4F12-90EE-A8FFBF7796E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AB84D97-1C52-4F12-90EE-A8FFBF7796E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AB84D97-1C52-4F12-90EE-A8FFBF7796E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70F1A11D-9457-4725-8D00-5A7305493A61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70F1A11D-9457-4725-8D00-5A7305493A61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70F1A11D-9457-4725-8D00-5A7305493A61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70F1A11D-9457-4725-8D00-5A7305493A61}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {82546527-05EB-416E-B777-6047C3874F70}
+	EndGlobalSection
+EndGlobal
